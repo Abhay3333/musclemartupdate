@@ -8,7 +8,7 @@ const Login = () => {
         <nav className="bg-blue-900 p-4">
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="text-white font-bold text-lg">
-          MuscleMart
+          MuscleMartMM
         </Link>
         <div className="md:flex space-x-4">
         <Link to="/" className="text-white hover:underline">
